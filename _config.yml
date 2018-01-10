@@ -7,7 +7,7 @@
 title: NexT
 subtitle:
 description:
-author: John Doe
+author: Ambivivz		
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
 date_format: '%Y-%m-%d'
@@ -150,9 +150,10 @@ menu_icons:
 # ---------------------------------------------------------------
 
 # Schemes
-scheme: Muse
+scheme: Pisces
 #scheme: Mist
 #scheme: Pisces
+#scheme: Muse
 
 
 # ---------------------------------------------------------------

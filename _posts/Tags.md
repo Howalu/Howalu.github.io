@@ -1,6 +1,5 @@
 ---
 title: Tags
-date: 2013-12-24 23:29:53
 categories:
 - Updates
 tags:
@@ -10,4 +9,4 @@ tags:
 - Music
 ---
 
-Text. Testing.
+Tags for navigating posts.
